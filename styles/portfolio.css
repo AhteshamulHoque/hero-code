@@ -56,6 +56,10 @@ nav .menu a{
     cursor: pointer;
 
 }
+.section-heading{
+    max-width: 827px;
+    text-align: center;
+}
 #banner{
   
     margin:47px 38px 0px 230px;
@@ -86,4 +90,15 @@ nav .menu a{
 #banner .banner-image{
     max-width: 585px;
     vertical-align: middle;
+}
+#about{
+    padding-top: 130px;
+
+}
+.about-container{
+    width:71px;
+    max-width: 1140px;
+    text-align: center;
+    background-color: #fff8f3;
+   padding: 131px, 156px;
 }
